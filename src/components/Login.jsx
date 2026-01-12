@@ -85,11 +85,9 @@ const Login = () => {
         <div className="demo-credentials">
           <h3>Demo Credentials:</h3>
           <ul>
-            <li>Username: john_doe | Password: password123</li>
-            <li>Username: jane_smith | Password: password456</li>
-            <li>Username: bob_wilson | Password: password789</li>
-            <li>Username: alice_jones | Password: password101</li>
-            <li>Username: charlie_brown | Password: password202</li>
+            <li>Username: aman | Password: aman@123</li>
+            <li>Username: ag17 | Password: ag17</li>
+            
           </ul>
         </div>
       </div>
