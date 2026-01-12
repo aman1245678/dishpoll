@@ -1,9 +1,7 @@
 export const USERS = [
-  { id: 1, username: "john_doe", password: "password123" },
-  { id: 2, username: "jane_smith", password: "password456" },
-  { id: 3, username: "bob_wilson", password: "password789" },
-  { id: 4, username: "alice_jones", password: "password101" },
-  { id: 5, username: "charlie_brown", password: "password202" }
+  { id: 1, username: "aman", password: "aman123" },
+  { id: 2, username: "pooja", password: "pooja" },
+ 
 ];
 
 export const RANK_POINTS = {
